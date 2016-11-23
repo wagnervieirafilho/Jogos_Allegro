@@ -1,0 +1,5 @@
+/// como compilar
+
+https://www.vivaolinux.com.br/dica/Compilando-Allegro-no-Linux/
+
+
