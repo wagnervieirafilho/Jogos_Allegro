@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1438791769 source:/home/wagner/Documentos/PacManAllegro/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	"principal.h"
+	"pacman.h"
+
+1438736595 /home/wagner/Documentos/PacManAllegro/principal.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1438791058 /home/wagner/Documentos/PacManAllegro/pacman.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"principal.h"
+
+1438736537 source:/home/wagner/Documentos/PacManAllegro/principal.c
+	"principal.h"
+
+1438791596 source:/home/wagner/Documentos/PacManAllegro/pacman.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"principal.h"
+	"pacman.h"
+
